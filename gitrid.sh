@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Version information
-VERSION="2.1.0"
+VERSION="3.0.0"
 
 # Verify the main branch name
 DEFAULT_BRANCH="main"
